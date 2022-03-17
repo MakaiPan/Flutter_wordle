@@ -1,4 +1,4 @@
-const kWordList = [
+const List<String> kWordList = [
   'which',
   'there',
   'their',
