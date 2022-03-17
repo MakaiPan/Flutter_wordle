@@ -18,12 +18,14 @@ The project directory structure is as follows:
 ```
 |--lib
     |--widgets
+    |--models
 ```
 
 
 | **Directory** | **Description**               |
 |---------------|-------------------------------|
 | widgets       | Additional customized Widgets |
+| models        | Models layer directory        |
 
 
 
